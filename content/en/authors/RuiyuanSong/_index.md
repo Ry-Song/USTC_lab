@@ -18,7 +18,7 @@ bio:
 
 interests:
 - Multimodal Machine Learning
-- Unsupervised learning
+- Unsupervised Learning
 - Wireless Sensing
 
 education:
@@ -68,4 +68,4 @@ user_groups:
 - Ph.D. Students
 ---
 
-Hello! This is Ruiyuan Song. I am a Ph.D. student at the School of Cyberspace Science and Technology, University of Science and Technology of China (USTC), Hefei, China. I am fortunate to be advised by [Prof. Yan Chen](https://chenyanustc.github.io/) and Prof. Qibin Sun. My research interest lies in multimodal machine learning, unsupervised learning and wireless sensing.
+Hello! This is Ruiyuan Song. I am a Ph.D. student at the School of Cyber Science and Technology, University of Science and Technology of China (USTC), Hefei, China. I am fortunate to be advised by [Prof. Yan Chen](https://chenyanustc.github.io/) and Prof. Qibin Sun. My research interest lies in multimodal machine learning, unsupervised learning and wireless sensing.
